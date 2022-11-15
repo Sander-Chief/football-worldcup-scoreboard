@@ -1,0 +1,22 @@
+{
+  "name": "football-worldcup-scoreboard",
+  "version": "1.0.0",
+  "description": "Football World Cup Score Board implementation",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.[t|j]sx?$": "babel-jest"
+    }
+  },
+  "author": "Alexander Volkov (sander.chief@gmail.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.3.1",
+    "jest": "^29.3.1"
+  }
+}

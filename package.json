@@ -12,7 +12,7 @@
       "^.+\\.[t|j]sx?$": "babel-jest"
     }
   },
-  "author": "Alexander Volkov (sander.chief@gmail.com)",
+  "author": "Alexander Volkov <sander.chief@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@babel/preset-env": "^7.20.2",
